@@ -10,7 +10,7 @@
     "commit": "ff945fae5776ad5f370d3b635d9e38001b48e3aa",
     "path": "docs/specs/cron-explainer/SPEC.md",
     "specSha256": "085ea5bde169db78b4f96bea85cc6d47e2de96f028abcd8dbc2e330af48703ab",
-    "briefCommit": "RESOLVE_ME"
+    "briefCommit": "9aabc7081eb2515a56afbfe537731ad3314294d2"
   },
   "environment": {
     "node": "v24.22.1",
